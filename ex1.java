@@ -12,4 +12,6 @@ System.out.println(" Welcome to java   ");
 
 // k sir 
 
+// uhuihukhik,ujoikoikoik
+
 
